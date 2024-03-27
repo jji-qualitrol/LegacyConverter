@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "LegacyConverter (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "LegacyConverter (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
